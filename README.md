@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/ecoleta.png"></img>
+    <img src="icones/ecoleta.png"></img>
 </p>
 
 # Ecoleta 
