@@ -1,4 +1,4 @@
-![Print da página principal](/icones/ecoleta.png?raw=true "Optional Title")
+![Print da página principal](icones/ecoleta.png?raw=true "Optional Title")
 
 # Ecoleta 
 
