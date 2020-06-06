@@ -1,4 +1,4 @@
-<p><img src="icones/ecoleta.png"></img></p>
+![Print da página principal](/icones/ecoleta.png?raw=true "Optional Title")
 
 # Ecoleta 
 
