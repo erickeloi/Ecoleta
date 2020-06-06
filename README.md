@@ -1,6 +1,4 @@
-<p align="center">
-    <img src="/icones/ecoleta.png"></img>
-</p>
+<p><img src="icones/ecoleta.png"></img></p>
 
 # Ecoleta 
 
